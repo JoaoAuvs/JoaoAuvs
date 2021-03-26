@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @JoaoAuvs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Oi! Sou o João.
+#### Seja bem vindo ao meu portfólio. 
 
-<!---
-JoaoAuvs/JoaoAuvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://www.linkedin.com/in/joaoauvs/" target="_blank">
+  <img aling="" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+</a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoAuvs&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoauvs&layout=compact&theme=dracula)](https://github.com/joaoauvs/github-readme-stats)
