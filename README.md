@@ -1,7 +1,7 @@
 ### Olá, eu sou o João Alves Da Silva Neto 👋<br>
 📖 No presente momento estou no último ano do curso de Ciência da Computação na PUC-Goiás.<br>
 💼 Trabalhando como Estágiario na Soluti.<br>
-🌱 Atualmente estou aprendendo um pouco de tudo, mas principalmente sobre bibliotecas e frameworks JavaScript.<br>
+🌱 Atualmente estou aprendendo um pouco de tudo, mas principalmente sobre bibliotecas e frameworks.<br>
 🦸‍♂️ Estou buscando desenvolver mais projetos pessoais.<br>
 🥅 Metas de 2021: Me desafiar a aceitar mais riscos, sejam pessoais ou profissionais.<br>
 <br>
